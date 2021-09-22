@@ -1,0 +1,32 @@
+.content{
+    width: 60%;
+    float: left;
+    background-color: rgb(255, 249, 166);
+}
+
+.sidebar{
+    width: 40%;
+    float: right;
+    background-color: rgb(158, 244, 250);
+}
+
+h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    border-bottom: red solid;
+    padding-bottom: 10px;
+}
+
+h2{
+    color: blue;
+}
+
+body{
+    background-color: rgb(255, 249, 166);
+}
+
+#date{
+    font-style: italic;
+    color: rgb(26, 124, 3);
+    font-family: 'Merriweather', serif;
+}
